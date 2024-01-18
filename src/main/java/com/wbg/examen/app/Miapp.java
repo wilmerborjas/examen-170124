@@ -20,6 +20,9 @@ public class Miapp {
 		computador.setPantalla(1);
 
 		Gato gato = new Gato();
+		gato.setCantidadPatas(4);
+		gato.setPeso(11.2);
+		gato.setRaza("miau");
 
 		Escritorio escritorio = new Escritorio();
 
